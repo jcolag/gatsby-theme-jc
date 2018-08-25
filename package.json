@@ -1,20 +1,20 @@
 {
-  "name": "gatsby-advanced-blog",
+  "name": "gatsby-theme-jc",
   "version": "0.2.0-1",
-  "description": "Gatsby starter for advanced blog",
+  "description": "A custom theme for Gatsby that just happens to match my personal website",
   "main": "n/a",
-  "author": "wonism",
-  "license": "MIT",
-  "homepage": "https://github.com/wonism/gatsby-advanced-blog",
+  "author": "John Colagioia",
+  "license": "AGPL-3.0-or-later",
+  "homepage": "https://github.com/jcolag/gatsby-theme-jc",
   "keywords": [
     "gatsby"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wonism/gatsby-advanced-blog.git"
+    "url": "git+https://github.com/jcolag/gatsby-theme-jc.git"
   },
   "bugs": {
-    "url": "https://github.com/wonism/gatsby-advanced-blo/issues"
+    "url": "https://github.com/jcolag/gatsby-theme-jc/issues"
   },
   "peerDependencies": {
     "gatsby": "^2.0.0-beta.19",
