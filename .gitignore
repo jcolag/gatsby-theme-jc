@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# Gatsby's cache and output
+public
+.cache
+
+# Gedit backup files
+*~
