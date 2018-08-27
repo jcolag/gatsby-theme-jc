@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
-import { flow, isEmpty, isEqual, slice, split, filter, map, get, size, toUpper } from 'lodash/fp';
+import { flow, isEmpty, isEqual, slice, split, filter, map, get, size } from 'lodash/fp';
 import PostsWrapper from '~/components/Common/PostsWrapper';
 import Card from '~/components/Common/Card';
 import Pagination from '~/components/Common/Pagination';

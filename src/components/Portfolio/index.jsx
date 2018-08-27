@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import styled from 'styled-components';
-import { map, includes, get, toUpper } from 'lodash/fp';
+import { map, includes, get } from 'lodash/fp';
 import SimpleWrapper from '~/components/Common/SimpleWrapper';
 import { PRIMARY_COLOR } from '~/components/Common/constants';
 
