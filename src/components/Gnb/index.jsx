@@ -48,7 +48,7 @@ const GnbWrapper = styled.div`
   line-height: 100px;
   background-color: rgba(255, 255, 255, .6);
   font-size: 18px;
-  font-family: Lato;
+  font-family: Vollkorn;
   font-weight: 600;
   z-index: 3000;
   @media (max-width: 414px) {
@@ -62,14 +62,19 @@ const SubMenu = styled.ul`
   position: absolute;
   top: 100px;
   line-height: 1.8em;
-  background-color: #fff;
+  background: #f1ebd9;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: bold;
   overflow: hidden;
   transition: max-height .4s ease-out .1s;
 
   li {
+    background: #f1ebd9;
     padding: 6px 12px;
+  }
+  
+  a {
+    background: #f1ebd9;
   }
 
   a:hover {
@@ -104,6 +109,7 @@ const ListMenu = styled.li`
 
   small {
     font-size: 12px;
+    background: #f1ebd9;
   }
 `;
 
@@ -177,11 +183,11 @@ const SearchBar = styled.input`
 
 const SearchedPosts = styled.div`
   position: absolute;
+  height: auto;
   top: 100px;
-  right: 3px;
+  right: 13px;
   width: 317px;
   max-height: 500px;
-  background-color: #fff;
   box-shadow: ${({ isEmpty }) => (isEmpty ? '0 0 0' : '0 2px 4px rgba(0,0,0,0.2)')};
   box-shadow: ${({ isEmpty }) => (isEmpty ? '0 0 0' : '0 3px 8px 0 rgba(0,0,0,0.2), 0 0 0 1px rgba(0,0,0,0.08)')};
   font-weight: 400;
@@ -412,7 +418,7 @@ const Gnb = ({
             ) : null}
             <ListMenu>
               <StyledLink to="/resume" className={isResume ? 'active' : ''} onClick={closeMenu}>
-                Resume
+                R&eacute;sum&eacute;
               </StyledLink>
             </ListMenu>
             <SearchBarWrapper>
@@ -505,7 +511,7 @@ const Gnb = ({
         ) : null}
         <ListMenu>
           <StyledLink to="/resume" className={isResume ? 'active' : ''}>
-            Resume
+            R&eacute;sum&eacute;
           </StyledLink>
         </ListMenu>
         <SearchBarWrapper>
