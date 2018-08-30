@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Advanced Blog',
-    author: 'wonism',
+    title: 'Entropy Arbitrage',
+    author: 'John Colagioia',
+    siteUrl: 'https://john.colagioia.net/blog'
   },
   pathPrefix: '/',
   plugins: [
