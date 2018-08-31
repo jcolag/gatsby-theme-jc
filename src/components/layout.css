@@ -48,8 +48,27 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+html, body {
+    height: 100%;
+    margin: 0;
+}
 body {
 	line-height: 1;
+}
+body div {
+    height: 100%;
+}
+body div div {
+    height: 100%;
+}
+main {
+    height: -webkit-calc(100% - 37px);
+    height: -moz-calc(100% - 37px);
+    height: calc(100% - 37px);
+    overflow: auto;
+}
+footer {
+    height: 37px;
 }
 ol, ul {
 	list-style: none;
