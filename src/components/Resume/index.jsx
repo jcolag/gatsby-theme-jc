@@ -128,33 +128,26 @@ class Resume extends PureComponent {
               John Colagioia
             </h1>
             <p>
-              yocee57@gmail.com
+              john@colagioia.net
             </p>
           </BasicInformation>
           <SocialInformation>
             <a
-              href="https://github.com/wonism"
+              href="https://github.com/jcolag"
               target="_blank"
               rel="noreferrer noopener"
             >
               <FaGithub />
             </a>
             <a
-              href="https://twitter.com/j1ism"
+              href="https://twitter.com/jcolag"
               target="_blank"
               rel="noreferrer noopener"
             >
               <FaTwitter />
             </a>
             <a
-              href="https://www.facebook.com/j1.chic"
-              target="_blank"
-              rel="noreferrer noopener"
-            >
-              <FaFacebook />
-            </a>
-            <a
-              href="https://www.linkedin.com/in/wonism/"
+              href="https://www.linkedin.com/in/jcolag/"
               target="_blank"
               rel="noreferrer noopener"
             >
