@@ -86,6 +86,7 @@ table {
 	border-spacing: 0;
 }
 a, a:focus, a:hover, a:visited {
+  background-color: transparent;
   color: #3C6C86;
   text-decoration: blink;
 }
