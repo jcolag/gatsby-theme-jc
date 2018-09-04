@@ -11,6 +11,9 @@ import './index.css';
 import * as backgroundUrl from '~/resources/sunrise-1190437_1920.jpg';
 
 const Title = styled.h1`
+  background-color: transparent;
+  background-image: url(${backgroundUrl.default});
+  background-position: center;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -18,16 +21,17 @@ const Title = styled.h1`
   left: 0;
   margin: auto;
   width: 80%;
-  height: 1.5em;
+  height: 3em;
   line-height: 1.5em;
   color: #6e3c29;
-  font-size: 40px;
+  font-size: 32px;
   font-size: 8vw;
   font-family: 'Vollkorn';
   font-weight: bold;
   text-align: center;
   text-overflow: ellipsis;
   overflow: hidden;
+  padding-top: 0.85em
   white-space: nowrap;
 `;
 
