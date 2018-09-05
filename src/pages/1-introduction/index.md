@@ -1,10 +1,10 @@
 ---
-path: "/post-1/"
-category: "test"
-tags: ["tag"]
-title: "Lorem Ipsum"
-date: "2018-01-01T00:00:00.000Z"
-summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+path: "/1-introduction/"
+category: "introduction"
+tags: ["intro", 'john']
+title: "Welcome to My Blog"
+date: "2018-08-26T00:00:00.000Z"
+summary: "A brief introduction to how this is likely to evolve"
 images: ["images/1.jpg"]
 ---
 
