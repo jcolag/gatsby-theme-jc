@@ -46,7 +46,7 @@ const GnbWrapper = styled.div`
   width: 100%;
   height: 100px;
   line-height: 100px;
-  background-color: rgba(255, 255, 255, .6);
+  background-color: transparent;
   font-size: 18px;
   font-family: Vollkorn;
   font-weight: 600;
