@@ -53,7 +53,7 @@ const PostContent = styled.section`
     margin: 40px 0 0;
     padding: 0 0 0 2em;
     line-height: 1.2em;
-    color: #aaa;
+    color: #5a95b5;
     font-style: italic;
     font-family: 'Vollkorn';
     font-size: 24px;

@@ -229,3 +229,46 @@ code {
 .gatsby-highlight .xml .cdata {
   opacity: 0.5;
 }
+
+ul {
+  list-style: initial;
+  list-style-type: disc outside none;
+    display: block;
+    list-style-type: disc;
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 2em;
+}
+ol {
+  list-style-type: decimal outside none; 
+}
+ul ul, ol ul {
+  list-style-type: circle outside none; 
+  margin-left: 15px; 
+}
+ol ol, ul ol {
+  list-style-type: lower-latin outside none;
+  margin-left: 15px; 
+}
+li {
+  display: list-item;
+}
+
+a {
+  background: transparent;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Vollkorn;
+  font-weight: bold;
+}
+
+h6 {
+  font-weight: normal;
+  text-align: right;
+}
+em {
+  font-style: italic;
+}
