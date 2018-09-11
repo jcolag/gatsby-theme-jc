@@ -26,17 +26,19 @@ const Footer = () => (
       >
         Creative Commons Attribution-ShareAlike 4.0 International License
       </a>.
-    </span> <a
-      href="http://creativecommons.org/licenses/by-sa/4.0/"
-      rel="license noreferrer noopener"
-      target="_blank"
-    >
-      <img
-        alt="Creative Commons (Attribution, Share-Alike) License"
-        style={{ borderWidth: 0, padding: 0, margin: 0, verticalAlign: 'top' }}
-        src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"
-      />
-    </a>
+      &nbsp;
+      <a
+        href="http://creativecommons.org/licenses/by-sa/4.0/"
+        rel="license noreferrer noopener"
+        target="_blank"
+      >
+        <img
+          alt="Creative Commons (Attribution, Share-Alike) License"
+          style={{ borderWidth: 0, display: 'inline', padding: 0, verticalAlign: 'top' }}
+          src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"
+        />
+      </a>
+    </span>
   </FooterWrapper>
 );
 
