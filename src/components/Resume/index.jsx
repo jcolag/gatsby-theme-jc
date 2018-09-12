@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 import styled from 'styled-components';
 import FaPinrt from 'react-icons/lib/fa/print';
 import FaGithub from 'react-icons/lib/fa/github';
+import FaFacebook from 'react-icons/lib/fa/facebook';
 import FaTwitter from 'react-icons/lib/fa/twitter';
 import FaLinkedin from 'react-icons/lib/fa/linkedin';
 import { forEach, startsWith, get } from 'lodash/fp';

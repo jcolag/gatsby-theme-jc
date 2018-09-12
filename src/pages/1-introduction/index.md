@@ -2,81 +2,22 @@
 path: "/1-introduction/"
 category: "introduction"
 tags: ["intro", 'john']
-title: "Greetings"
+title: "Welcome to My Blog"
 date: "2018-08-26T00:00:00.000Z"
 summary: "A brief introduction to how this is likely to evolve"
 images: ["images/1.jpg"]
 ---
 
-In case a blog needs any sort of introduction, this blog is going to be a variety of things.  Depending on who you are, some might interest you and some might send you away.  But they're all going to be here, because it's _all_ going to be what I'm thinking about.
+> Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
 
-Fair warning.
+> There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...
 
-## Why Are We Here?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed porttitor orci, a porta augue. Vestibulum augue velit, interdum in sagittis vel, gravida volutpat erat. Suspendisse ultrices tellus lorem, rhoncus finibus nisl pharetra et. Morbi aliquam, massa in sagittis imperdiet, nisi metus consequat ipsum, eu congue mi ipsum vel ante. Proin consequat libero eu facilisis aliquet. Mauris viverra malesuada elit, at suscipit est ullamcorper sed. Integer commodo ultricies ligula, ut mattis elit tincidunt sit amet. Vivamus nec sapien sit amet turpis finibus feugiat. Ut nec felis dictum, porttitor nisl eget, imperdiet lacus. Aenean lobortis purus vitae consequat molestie. Pellentesque rhoncus nunc at semper ornare. Vivamus sagittis consequat imperdiet. Fusce a lorem in mauris iaculis fermentum. Maecenas fringilla id erat in varius. Duis imperdiet posuere mi. Donec accumsan ante sed turpis hendrerit, eget mattis massa dapibus.
 
- > Everything must justify its existence before the judgment seat of Reason, or give up existence.
+Cras fermentum mollis condimentum. Nullam eu enim id quam rhoncus molestie. Mauris ut lectus ac sapien blandit egestas. Donec dictum ornare euismod. Vivamus ac augue tristique neque convallis eleifend. In sed massa est. Nullam consectetur dapibus tempor. Donec molestie ligula lacus, ultrices placerat elit tempor non. Nulla tempor consequat condimentum. Morbi sollicitudin nulla condimentum ex maximus, vel ultricies felis bibendum. Morbi et tellus ac erat cursus euismod.
 
-###### Part I/Chapter, _Anti-Dühring_, Friedrich Engels
+Proin dictum arcu id ultricies vestibulum. Nulla facilisi. Donec at nulla sed sapien egestas lacinia sed quis dui. In felis velit, efficitur at nibh eget, consequat commodo elit. Mauris porta, lectus at varius iaculis, metus erat consequat nisl, at dignissim erat lorem quis enim. Phasellus iaculis erat sit amet condimentum consectetur. Aliquam orci tortor, pretium at ultricies eu, auctor molestie tellus. Donec luctus lacinia augue a vestibulum. Proin vulputate dictum euismod. Quisque nec erat lacinia purus tristique dictum. Curabitur cursus rhoncus ex nec aliquet.
 
-Off on my own, in quiet corners, I write a _lot_.  I have notes on a lot of what I read, scribble out thoughts about possible projects I might want to work on when I have the time, have old projects lying around, a few projects that are always partly ready to release, and a bunch of [answers on Quora](https://www.quora.com/John-Colagioia).  That's not to mention the lecture notes for classes I used to teach, the assorted things I'm trying to learn, and special non-technical projects that I sort of thing are necessary.
+Donec eu tincidunt nibh. Sed vel facilisis turpis. Fusce pulvinar mi sollicitudin turpis iaculis, quis posuere tellus tristique. Vestibulum vulputate, neque ut faucibus finibus, libero risus varius est, quis sagittis sapien nibh non ligula. Suspendisse sodales interdum diam ac ullamcorper. In magna lectus, hendrerit ut nisl non, faucibus dignissim magna. Mauris vel tincidunt turpis. Aenean eget urna eget sem venenatis tempor. Duis sodales ut est vehicula pellentesque. Mauris maximus laoreet eros quis sagittis. Donec ornare magna sit amet sapien mattis blandit. Proin tempus felis et hendrerit vehicula. Fusce semper quis diam sed vulputate. Phasellus accumsan mauris ac urna vestibulum fringilla. Sed viverra venenatis metus, et euismod neque tempor sed. Aliquam pellentesque volutpat ante, at hendrerit tellus porttitor id.
 
-In a lot of ways, this is to make it easier to point people to longer ideas when desirable and also to help solidify my thoughts.
-
-This is also, in a sense, a tool to keep myself honest.  I look back on things I wrote ten and twenty years ago and cringe at the horrible person it must have taken to believe those things.  One hopes that the accountability of purposely publishing will impose some responsibility of not completely mortifying _John of the Future_&trade;.
-
-In other words, this is probably going to be a meandering mess, just the way I like it.  Hang out at your own peril, you might be eaten by a grue.  Ignore what doesn't interest you.
-
-## Who Am I?
-
- > Who are we ourselves? Who am I who now address you? Who are you who are listening to me?
-
-###### &mdash; Book Seventh, Chapter I, _Les Misérables_, Victor Hugo
-
-I don't generally describe myself.  Do _you_ care?  I don't really care, since I'm just me.  But, in the interest of best possible disclosure, here are parts of my background that _might_ make me recognizable to visitors and/or will probably make it into the blog in some form:
-
- * I've been programming recreationally since the early '80s and professionally since the mid-'90s.
- * I taught graduate-level computer science classes for about fifteen years and various adult education classes for about five years.
- * I've released a handful of free software projects that have gained some minor measure of traction (as in, people have asked me about them), like the [AutoStory](https://github.com/jcolag/AutoStory) plot generator, the [uManage](https://github.com/jcolag/uManage) time tracker, and the [Thue](https://github.com/jcolag/Thue) experimental programming language.
- * As mentioned, I've written a few thousand(!) answers on [Quora](https://www.quora.com/John-Colagioia) in a variety of areas, from programming to job searches to social justice.
- * I volunteer with the [Digital Comic Museum](http://digitalcomicmuseum.com/forum/index.php?action=profile;u=16), though these days, a lot of the copyright and moderation issues have been handled other than cleaning up occasional bursts of spam.
- * Rarely, I'm inspired to spend a few minutes/hours editing [Wikipedia](https://en.wikipedia.org/wiki/User:Jcolag) and, for reasons I'm _still_ not entirely sure about, even have [a page](https://en.wikipedia.org/wiki/John_Colagioia) that someone wrote a long time ago, so...I _guess_ I'm notable?
- * I've spent a lot of time messing around with role-playing games, particularly superhero games, though haven't been anywhere near the community (or games) recently.
- * Very rarely, I might discuss a conventional product or media franchise that has is worth highlighting.
-
-Basically, if you come to the conclusion of "professional dilettant," I can assure you that I've heard worse.
-
-## Why _Aren't_ We Here?
-
- > Oh, bird of my soul, fly away now, For I possess a hundred fortified towers.
-
-###### Rumi
-
-Here's an assortment of typical blogging material that I won't likely indulge in.  If that's why you're reading, rest assured that you will be disappointed.
-
- * Day to day life, which should largely be irrelevant to anybody who isn't me.
- * Comments about places I work or have worked, which would be unprofessional and a fairly significant breach of trust.  Exceptions _might_ be made for illustrative points in broader thoughts with the identifying features filed off.
- * My "deep thoughts on the nature of things," or whatever's making me unhappy, because...just no.
- * Apologies or excuses for not having posted in a while.
- * Sponsored content; I don't care about your product, so don't even ask.
-
-In short, this isn't therapy and it isn't about me.
-
-## What Will End up Here?
-
-Here's a vague list of what you might be in for on the blog:
-
- * Updates on my (free/libre) projects;
- * Consolidated versions of my Quora answers on common topics, since some of these questions are repeated frequently and I refuse to copy-and-paste an old answer...nor do I have the patience to merge duplicate questions;
- * Narrative versions of some of my lecture notes, when the topic isn't typically covered in the way I prefer;
- * Broad thoughts on the direction of the software industry and maybe free culture;
- * How things go when I attempt to learn something new;
- * From time to time, I may indicate a free/libre project that I happen to actually use and like;
- * The occasional recipe, since I cook a lot; and
- * Notes on things I don't think I've seen other people talk about in any detail.
-
-Note that, by "free," I mean something like _available under a public license that allows users/customers to use and replicate the work (in whole or in part) for any purpose_.  Conditions requiring reciprocation (maintaining the same license) are still free, whereas conditions that restrict usage (disallowing commercial or military uses) are not.
-
-This blog, with content licensed (with some _eventual_ exceptions, I'm sure) under the Share-Alike license noted below, fits that interest.  For those who have further interest in why it's a good choice, I strongly recommend the [Proposing CC-Pro](https://questioncopyright.org/cc-pro) article on the _Question Copyright_ blog, which briefly outlines why non-commercial licenses are ultimately pointless.  With any luck, I'll convince some readers to be interested, as well.
-
-Fair?  OK, then, let's get started...
-
+Fusce quis lectus sit amet lectus interdum consequat. In ultricies lorem id massa rhoncus suscipit. Sed a ornare velit. In hac habitasse platea dictumst. In convallis iaculis ligula id fermentum. Vestibulum gravida vulputate velit, in ornare metus ultricies ac. Maecenas congue metus risus, vitae tincidunt ipsum aliquet sit amet.
