@@ -124,3 +124,6 @@ button, a, label {
     display: block;
   }
 }
+p + p, p + ul, ul + p {
+  margin-top: 1em;
+}
