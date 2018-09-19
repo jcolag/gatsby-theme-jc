@@ -8,7 +8,7 @@ import Wrapper from '~/components/Common/Wrapper';
 import SimpleWrapper from '~/components/Common/SimpleWrapper';
 import PortfolioCard from '~/components/Common/PortfolioCard';
 import './index.css';
-import * as backgroundUrl from '~/resources/sunrise-1190437_1920.jpg';
+import * as backgroundUrl from '~/resources/sunrise-xp.png';
 
 const Title = styled.h1`
   background-color: transparent;
