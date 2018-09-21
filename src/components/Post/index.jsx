@@ -31,22 +31,22 @@ const PostContent = styled.section`
 
   h2 {
     margin: 24px 0 10px;
-    font-size: 28px;
+    font-size: 28pt;
   }
 
   h3 {
     margin: 24px 0 10px;
-    font-size: 24px;
+    font-size: 24pt;
   }
 
   h4 {
     margin: 24px 0 10px;
-    font-size: 21px;
+    font-size: 21pt;
   }
 
   p {
     margin: 16px 0 0;
-    font-size: 16px;
+    font-size: 14pt;
   }
 
   blockquote {
@@ -56,7 +56,7 @@ const PostContent = styled.section`
     color: #5a95b5;
     font-style: italic;
     font-family: 'Vollkorn';
-    font-size: 24px;
+    font-size: 24pt;
   }
 
   pre {
