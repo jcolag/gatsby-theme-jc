@@ -145,3 +145,10 @@ button, a, label {
 p + p, p + ul, ul + p {
   margin-top: 1em;
 }
+a {
+  color: #6c863c;
+  text-decoration: underline;
+}
+a:visited {
+  color: #863c6c;
+}
