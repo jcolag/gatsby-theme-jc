@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Entropy Arbitrage',
     author: 'John Colagioia',
+    description: 'A personal blog of assorted things',
     siteUrl: 'https://john.colagioia.net/blog'
   },
   pathPrefix: '/',
@@ -47,12 +48,6 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: 'gatsby-plugin-google-analytics',
-      options: {
-        trackingId: 'UA-80620216-1',
-      },
-    },
     'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
     {
@@ -80,6 +75,9 @@ module.exports = {
         }],
         */
       },
+    },
+    {
+        resolve: `gatsby-plugin-feed`
     },
   ],
 };
