@@ -29,15 +29,19 @@ const PortfolioDescription = styled.section`
     padding: 0 0 16px;
     width: 100%;
   }
+  
+  p {
+    font-size: 14pt;
+  }
 
   h1 {
     margin: 0.67em 0;
-    font-size: 28px;
+    font-size: 28pt;
   }
 
   h2 {
     margin: 0.67em 0;
-    font-size: 20px;
+    font-size: 20pt;
   }
 
   ul {
