@@ -11,7 +11,7 @@ import { CONTENT_PER_PAGE } from '~/constants';
 
 const List = ({ data, location }) => {
   const page = getPage(2)(location);
-  const allPosts = getPosts(data);
+  const allPosts = getPosts(data).filter(p => new Date(p.node.frontmatter.date) < new Date());
   const postCount = size(allPosts);
   const posts = slice(
     (page - 1) * CONTENT_PER_PAGE,
