@@ -90,11 +90,11 @@ blockquote blockquote p {
 	display: block;
 	float: right;
 	padding: 0 0 0 10px;
-	margin: 0.5em 0 0 1em !important;
-	width: 225px;
+	margin: 12px -100px 24px 36px !important;
+	width: 500px;
 	font-size: 3em;
 	font-style: normal;
-	line-height: 1.4em;
+	line-height: 1.75em;
 	text-align: right;
 	color: #7d3793;
 	border-left: 9px solid #5d296e;
