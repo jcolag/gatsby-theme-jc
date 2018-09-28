@@ -165,6 +165,17 @@ class PostTemplate extends PureComponent {
         <PostContent>
           <div id="post-contents" dangerouslySetInnerHTML={{ __html: get('markdownRemark.html')(data) }} />
         </PostContent>
+        <div>
+          <strong>Note:</strong>  By commenting, you agree (a) to release
+          your comment under the same Creative Commons Attribution,
+          Share-Alike license as the rest of the blog, (b) to not post
+          anything that requires me to moderate the comment, because I
+          assure you that will make <em>neither</em> of us happier.
+          <br />
+          If point (b) is unclear, you may wish to refer to the&nbsp;
+          <a href="/portfolios/1-conduct">Code of Conduct</a>.  Your
+          comment is a contribution.
+        </div>
         <div id="disqus_thread" />
         <noscript>
           Please enable JavaScript to view the
