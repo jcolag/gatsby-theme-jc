@@ -28,22 +28,18 @@ const Wrapper = styled.section`
 const Bio = () => (
   <Wrapper>
     <a
-      href="https://github.com/wonism/gatsby-advanced-blog"
+      href="https://john.colagioia.net"
       target="_blank"
       rel="noreferrer noopener"
     >
       <img
-        src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"
+        src="https://john.colagioia.net/images/me.png"
         width="48"
         height="48"
         alt=""
       />
       <span>
-        Gatsby Advanced Blog
-        <br />
-        <small>
-          Gatsby Starter for Advanced Blog
-        </small>
+        John Colagioia
       </span>
     </a>
   </Wrapper>
