@@ -77,6 +77,8 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
+This is not quite zero tolerance, so don't be afraid to report and don't let the fear of mistakes keep you from participating, but tolerance is not and will not be high.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>.
