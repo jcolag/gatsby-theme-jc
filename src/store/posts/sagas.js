@@ -61,7 +61,7 @@ export function* loadDisqusScript() {
         const s = d.createElement('script');
         s.src = 'https://jaewonism.disqus.com/embed.js';
         s.setAttribute('data-timestamp', Date.now());
-        d.body.appendChild(s);
+//        d.body.appendChild(s);
       }
     });
 
