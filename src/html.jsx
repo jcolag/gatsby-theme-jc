@@ -33,7 +33,7 @@ export default class HTML extends Component {
           <meta id="viewport" name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1" />
           <meta name="description" content="John Colagioia's Blog" />
           <meta name="keywords" content="blog, john, colagioia" />
-          <meta name="author" content="wonism" />
+          <meta name="author" content="jcolag" />
           <meta property="og:title" content="John Colagioia's Blog" />
           <meta property="og:site_name" content="Entropy Arbitrage" />
           <meta property="og:type" content="website" />
