@@ -64,5 +64,6 @@ typings/
 public
 .cache
 
-# Gedit backup files
+# Backup files
 *~
+*.backup
